@@ -17,12 +17,13 @@ Python · PyTorch · EfficientNet-B0 · MediaPipe · OpenCV · pytest
 > the corrected number, **97.8% accuracy and 0.978 macro-F1** on the leakage-safe split, behind
 > 7 pytest leakage cases so it cannot silently regress.
 
-**[Sleep Doctor](https://github.com/Poudel-Sanskriti/Sleep_Doctor)** - predicts sleep quality from lifestyle factors, deployed as a Streamlit app. Built with a 6-person team as my AI4ALL fellowship project.
+**[Sleep Doctor](https://poudel-sanskriti.github.io/sleep-doctor/)** - predicts sleep quality from lifestyle factors, built with a 6-person team as my AI4ALL fellowship project. [Code and notebooks](https://github.com/Poudel-Sanskriti/Sleep_Doctor).
 Python · scikit-learn · pandas · Streamlit
 
-> Lifted accuracy from a **44.5% majority-class baseline to 68%** on a 100,000-record synthetic
-> health dataset. Permutation importance and 5-fold cross-validation identified stress
-> (r = -0.64) as the dominant driver, overturning default importances that ranked step count first.
+> Lifted accuracy from a **44.5% majority-class baseline to 61.3%** on a 100,000-record
+> synthetic health dataset, and to **68.8%** with full lifestyle context. Permutation importance
+> and 5-fold cross-validation identified stress (r = -0.64) as the dominant driver, overturning
+> default importances that ranked step count first.
 
 **What-if** - a multi-agent LLM simulation engine built by a small team. I own CI/CD and the pgvector retrieval layer. *(Private repo, happy to walk through the work.)*
 Python · PostgreSQL/Neon · pgvector · Docker · Fly.io · GitHub Actions · Alembic
