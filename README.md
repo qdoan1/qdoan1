@@ -4,8 +4,8 @@ Statistics & Data Science + Mathematics (Computing) at UMass Amherst. I work on 
 
 ## Currently
 
-- AI/ML Fellow at AI4ALL (May 2026 – present)
-- Building CI/CD and pgvector retrieval for What-if, a multi-agent LLM simulation engine (Jun 2026 – present)
+- AI/ML Fellow at AI4ALL (May 2026 - present)
+- Building CI/CD and pgvector retrieval for What-if, a multi-agent LLM simulation engine (Jun 2026 - present)
 
 ## Selected work
 
@@ -22,7 +22,7 @@ Python · scikit-learn · pandas · Streamlit
 
 > Lifted accuracy from a **44.5% majority-class baseline to 68%** on a 100,000-record synthetic
 > health dataset. Permutation importance and 5-fold cross-validation identified stress
-> (r = −0.64) as the dominant driver, overturning default importances that ranked step count first.
+> (r = -0.64) as the dominant driver, overturning default importances that ranked step count first.
 
 **What-if** — a multi-agent LLM simulation engine built by a small team. I own CI/CD and the pgvector retrieval layer. *(Private repo — happy to walk through the work.)*
 Python · PostgreSQL/Neon · pgvector · Docker · Fly.io · GitHub Actions · Alembic
