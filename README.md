@@ -17,7 +17,7 @@ Python · PyTorch · EfficientNet-B0 · MediaPipe · OpenCV · pytest
 > the corrected number — **97.8% accuracy, 0.978 macro-F1** on the leakage-safe split — behind
 > 7 pytest leakage cases so it cannot silently regress.
 
-**[Sleep Doctor](https://github.com/Poudel-Sanskriti/Sleep_Doctor)** — predicts sleep quality from lifestyle factors, deployed as a [live Streamlit app](https://sleep-doctor-ai4all.streamlit.app). Built with a 6-person team as my AI4ALL fellowship project.
+**[Sleep Doctor](https://github.com/Poudel-Sanskriti/Sleep_Doctor)** — predicts sleep quality from lifestyle factors, deployed as a Streamlit app. Built with a 6-person team as my AI4ALL fellowship project.
 Python · scikit-learn · pandas · Streamlit
 
 > Lifted accuracy from a **44.5% majority-class baseline to 68%** on a 100,000-record synthetic
